@@ -8,3 +8,7 @@
  */
 
 rootProject.name = "taskbutler"
+
+include (
+    "taskbutlerfx"
+)
